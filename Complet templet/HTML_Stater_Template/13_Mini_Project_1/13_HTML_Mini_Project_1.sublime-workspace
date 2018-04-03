@@ -1,0 +1,290 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"cl",
+				"color"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"c",
+				"color"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"h",
+				"h3\tTag"
+			],
+			[
+				"m",
+				"margin-left"
+			],
+			[
+				"hi",
+				"height"
+			],
+			[
+				"bo",
+				"background"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ma",
+				"margin-bottom"
+			],
+			[
+				"border-c",
+				"border-color"
+			],
+			[
+				"clo",
+				"color"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"d",
+				"dotted"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"text-cl",
+				"text-decoration-color"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"text-a",
+				"text-align"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"i",
+				"id\tAttr"
+			],
+			[
+				"l",
+				"link\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 137.0,
+		"last_filter": "install",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"insata",
+				"Install Package Control"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/D/hyadrabad/soft/HTML_5_Complet templet/HTML_Stater_Template/04_HTML_SPAN_Tag.html",
+		"/D/hyadrabad/soft/HTML_5_Complet templet/HTML_Stater_Template/05_HTML_Text_Formatting.html",
+		"/D/hyadrabad/soft/HTML_5_Complet templet/HTML_Stater_Template/08_HTML_Images.html",
+		"/D/hyadrabad/soft/HTML_5_Complet templet/HTML_Stater_Template/02_HTML_Paragraphs.html",
+		"/D/hyadrabad/soft/HTML_5_Complet templet/HTML_Stater_Template/01_HTML_Headings.html",
+		"/D/hyadrabad/soft/HTML_5_Complet templet/HTML_Stater_Template/03_HTML_DIV_Tag.html",
+		"/C/Users/Eagle eye/Desktop/tutorial/examplefloat.html",
+		"/C/Users/Eagle eye/Desktop/tutorial/example.css",
+		"/C/Users/Eagle eye/Desktop/tutorial/Test1.html",
+		"/C/Users/Eagle eye/Desktop/tutorial/float.css",
+		"/C/Users/Eagle eye/Desktop/tutorial/floatingtutorial.html",
+		"/C/Users/Eagle eye/Desktop/tutorial/block using float.html",
+		"/C/Users/Eagle eye/Desktop/tutorial/blockfloat.css",
+		"/C/Users/Eagle eye/Desktop/tutorial/Scripts/selector.js",
+		"/C/Users/Eagle eye/Desktop/tutorial/selector.html",
+		"/C/Users/Eagle eye/Desktop/tutorial/Scripts/jq.js",
+		"/D/hyadrabad/soft/HTML_5_Development-master/HTML_Stater_Template/01_HTML_Headings.html",
+		"/D/hyadrabad/HTML_5_Development-master.zip"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "13_HTML_Mini_Project_1.sublime-project",
+	"replace":
+	{
+		"height": 66.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 312.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

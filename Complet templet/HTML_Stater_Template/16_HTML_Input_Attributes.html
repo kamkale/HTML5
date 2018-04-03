@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Html ipute atrributes</title>
+    <style type="text/css">
+    	div{
+    		background-color:darkcyan;
+    		color: white;
+    		padding: 10px;
+    		width: 400px;
+    		margin: 5px;
+    	}
+    </style>
+</head>
+<body>
+
+    <!-- input attributes value , readonly , size , rows , cols-->
+    <div>
+    	<form>
+    		<label>user name</label>
+    			<input type="text" value="kamlesh">  <!--value atributes-->
+    		
+    	</form>
+    </div>
+    <div>
+    	<form>
+    		<label>user name</label>
+    	<input type="text" value="kamlesh" readonly="true">  <!--value readonly-->
+    		
+    	</form>
+    </div>
+     <div>
+    	<form>
+    		<label>user name</label>
+    			<input type="text" value="kamlesh" readonly="true" disabled>  <!--disable-->
+    		
+    	</form>
+    </div>
+    <div>
+    	<form>
+    		<label>user name</label>
+    			<input type="text" value="kamlesh" size="30">  <!--size-->
+    		
+    	</form></div>
+    	<div>
+    	<form>
+    		<label>Adress</label>
+    			<textarea rows="5" cols="30"></textarea>> <!--row,colom-->
+    		
+    	</form></div>
+    <!-- HTML 5 Form Attributes required ,
+    no-validate , autofocus , pattern , placeholder -->
+
+	<div>
+    	<form>
+    		<label>user name *</label>
+    			<input type="text" required>
+    			<input type="submit" value="submit">  <!--requierd-->
+    		
+    	</form></div>
+    	
+
+		<div>
+    	<form  novalidate>   <!--no-validate-->
+    		<label>email *</label>
+    			<input type="email"> 
+    			<input type="submit" value="submit">  
+    		
+    	</form>
+    </div>
+
+
+	<div>
+    	<form>   <!--Autofoucus-->
+    		<label>username *</label>
+    			<input type="text" autofocus> 
+    			<input type="submit" value="submit">  
+    		
+    	</form>
+    </div>
+
+
+<div>
+    	<form>   <!--html5 patern--><!--patern-->
+
+    		<label>facebook user name</label>
+    		<input type="text" pattern="^[a-z\d\.]{5,}$"> 
+    		<input type="submit" value="submit">  
+    		
+    	</form>
+    </div>
+    <div>
+    	<from>
+
+    <label> user name</label> <!---placeholder--> 
+    		<input type="text" placeholder="enter username"> 
+    		<input type="submit" value="submit">  
+    		
+    	</form>
+    </div>
+
+
+</body>
+</html>

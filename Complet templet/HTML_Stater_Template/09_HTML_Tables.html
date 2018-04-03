@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Table</title>
+    <style type="text/css"></style>
+    <style>
+        table,th,th{
+            border:2px solid red;
+           border-collapse:collapse;
+           text-align:center;
+           padding:10px; 
+        }
+        #custom,  {
+            background-color:red;
+            color:white;
+        }
+    </style>
+</head>
+<body>
+
+
+    <!-- Simple Table Example -->
+    <h2> Simple Table</h2>
+    <table  width="100%">
+        
+        <thead>
+            <tr>
+                <th>sno</th>
+                <th> name</th>
+                <th>adress</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>1</th>
+                <th>john</th>
+                <th>us</th>
+            </tr>
+            <tr>
+                <th>2</th>
+                <th>johy</th>
+                <th>uk</th>
+            </tr>
+        </tbody>
+    </table>
+
+    <!-- Table with Border all sides -->
+
+    <!-- Table with Border Collapse -->
+    <h2>Table with Colspan</h2>
+    <table  width="100%">
+        
+        <thead>
+            <tr>
+                <th>sno</th>
+                <th colspan="2">
+                Name &Adress</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>1</th>
+                <th>john</th>
+                <th>us</th>
+            </tr>
+            <tr>
+                <th>2</th>
+                <th>johy</th>
+                <th>uk</th>
+            </tr>
+        </tbody>
+    </table>
+    <h2> Table with rowspan</h2>
+        <table  width="100%">
+        
+        <thead>
+            <tr>
+                <th>sno</th>
+                <th>Name</th>
+                <th> Adress</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th rowspan="2">1</th>
+                <th>john</th>
+                <th>us</th>
+
+            </tr>
+            <tr>
+                <th>2</th>
+                <th>johy</th>
+                <th>uk</th>
+            </tr>
+        </tbody>
+    </table>
+    <!-- Table With Padding -->
+
+    <!-- Table With Text Align -->
+
+    <!-- Table with Col Span -->
+
+    <!-- Table With Row Span -->
+
+    <!-- Custom Table with CSS -->
+<h2>Custom Table</h2>
+<table width="100%" id="Custom">
+        
+        <thead>
+            <tr>
+                <th>sno</th>
+                <th> name</th>
+                <th>adress</th>
+            </tr>
+        </thead>
+        <tbody>
+            <tr>
+                <th>1</th>
+                <th>john</th>
+                <th>us</th>
+            </tr>
+            <tr>
+                <th>2</th>
+                <th>johy</th>
+                <th>uk</th>
+            </tr>
+        </tbody>
+    </table>
+
+
+</body>
+</html>
